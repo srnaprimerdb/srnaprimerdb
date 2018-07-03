@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+![Image](img/070321334869_0User_manual_of_sRNAPrimerDB_V1.3_1.jpg)
 - Bulleted
 - List
 
