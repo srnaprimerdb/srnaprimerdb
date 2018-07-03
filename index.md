@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/srnaprimerdb/srnaprimerdb/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+![Image](img/070321334869_0User_manual_of_sRNAPrimerDB_V1.3_1.jpg)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
