@@ -1,4 +1,4 @@
-[save this document](http://60.205.203.178:8082/download/User_manual_of_sRNAPrimerDB.pdf)
+<p align=left>[save this document](http://60.205.203.178:8082/download/User_manual_of_sRNAPrimerDB.pdf)</p>
 
 ![Image](img/070321334869_0User_manual_of_sRNAPrimerDB_V1.3_1.jpg)
 ![Image](img/070321334869_0User_manual_of_sRNAPrimerDB_V1.3_2.jpg)
