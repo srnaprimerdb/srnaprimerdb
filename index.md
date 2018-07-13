@@ -18,4 +18,3 @@
 ![Image](img/18.png)
 ![Image](img/19.png)
 ![Image](img/20.png)
-![Image](img/21.png)
