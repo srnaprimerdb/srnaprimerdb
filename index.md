@@ -24,10 +24,3 @@
 ---
 ![Image](img/13.png)
 ---
-![Image](img/14.png)
----
-![Image](img/15.png)
----
-![Image](img/16.png)
----
-![Image](img/17.png)
